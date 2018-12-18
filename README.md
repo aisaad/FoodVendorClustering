@@ -12,10 +12,11 @@ Using Kernel Density Estimation on a Time (violation issued) versus Block Number
 
 Evaluation and Interpretation:
 We first tested a smaller sample of data (1000 samples) that produced clustering coordinates and then used the full data set (9000 samples) that also produced clustering coordinates.
-The results from the clusters are interpeted as (from the first cluster coordinate) vending on block numbers around block 842 at 1pm, would indicate that that someone with authority (DOH inspector or NYPD) to issue a violation is likely to be around there. 
+In Section 5 in the jupyter notebook file, the results from the clusters are interpeted as (from the first cluster coordinate) vending on block numbers around block 842 at 1pm, would indicate that that someone with authority (DOH inspector or NYPD) to issue a violation is likely to be around there. 
 
 Some shortcomings of approach were using a density estimation algorithim on a data set that ended up not being circular, which Kernel Density Estimation is more suitable for. 
 
 The jupyter notebook, ProjectML.ipynb is divided into 5 sections with the python code commented on
 
-
+Credit for coding examples goes to YouTuber 'sentdex' 
+Video URl: https://youtu.be/ZS-IM9C3eFg
