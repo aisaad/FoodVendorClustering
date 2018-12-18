@@ -16,6 +16,6 @@ The results from the clusters are interpeted as (from the first cluster coordina
 
 Some shortcomings of approach were using a density estimation algorithim on a data set that ended up not being circular, which Kernel Density Estimation is more suitable for. 
 
-The jupyter notebook is divided into 5 sections with the python code commented on
+The jupyter notebook, ProjectML.ipynb is divided into 5 sections with the python code commented on
 
 
